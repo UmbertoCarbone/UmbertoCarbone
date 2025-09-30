@@ -1,7 +1,7 @@
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=32&duration=2500&pause=1000&color=8E2DCA&background=6243FF00&center=true&width=436&lines=Hello+there!+%F0%9F%91%8B;My+name+is+Umberto;Nice+to+meet+you!;Welcome+to+my+profile+%F0%9F%9A%80)](https://git.io/typing-svg)
-
+---
 🇮🇹 Based in **Naples, Italy**  
 💡 **Traits:** kind, proactive, calm, and composed  
 🖥️ Passionate about **computers and consoles** since childhood  
@@ -28,18 +28,24 @@
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
 
-## 📌 Projects
+---
+
+### 📌 Projects
 
 🎮 **Umberto IA** – AI bot for Discord  
 🌐 **Ludos Cafe Bar Website** – dynamic website created for Ludos Cafe Bar using Tailwind CSS  
 🛒 **CloudGames** – group e-commerce project for video games  
-🤖 **Role Selector Bot** – Discord bot developed in Python with a command palette for role selection
+🤖 **Role Selector Bot** – Discord bot developed in Python with a command palette for role selection 
 
+---
+
+### Github Stats
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=UmbertoCarbone&theme=shadow-purple&date_format=M%20j%5B%2C%20Y%5D&card_width=501" alt="GitHub Streak" /></a> 
 ## 📫 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umberto-carbone-6a1744386/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/UmbertoCarbone)
 
-## ⚡ Fun Fact
+---
 
 </div>
