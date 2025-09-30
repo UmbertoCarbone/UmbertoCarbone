@@ -1,8 +1,4 @@
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=30&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hello+there!+👋;My+name+is+Umberto;Nice+to+meet+you!;Welcome+to+my+profile+🚀" width="600"/>
-</div>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=MonteCarlo&duration=2500&pause=1000&color=F70000&background=6243FF00&center=true&width=436&lines=Hello+there!+%F0%9F%91%8B;My+name+is+Umberto;Nice+to+meet+you!;Welcome+to+my+profile+%F0%9F%9A%80)](https://git.io/typing-svg)
 ---
 
 ## 👨‍💻 About Me
