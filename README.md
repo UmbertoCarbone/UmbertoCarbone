@@ -19,24 +19,24 @@
     <td valign="top" width="33%">
       <h3 align="center">🌐 Web Core</h3>
       <div align="center">
-        <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" style="margin: 10px" /></a>
-        <a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JS" height="40" style="margin: 10px" /></a>
-        <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" style="margin: 10px" /></a>
+        <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" style="margin: 8px" /></a>
+        <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" style="margin: 8px" /></a>
+        <a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JS" height="40" style="margin: 8px" /></a>
       </div>
     </td>
     <td valign="top" width="33%">
       <h3 align="center">🎨 Frontend</h3>
       <div align="center">
-        <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TS" height="40" style="margin: 10px" /></a>
-        <a href="https://sass-lang.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="40" style="margin: 10px" /></a>
+        <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TS" height="40" style="margin: 8px" /></a>
+        <a href="https://sass-lang.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="40" style="margin: 8px" /></a>
       </div>
     </td>
     <td valign="top" width="33%">
       <h3 align="center">⚙️ Backend</h3>
       <div align="center">
-        <a href="https://nodejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40" style="margin: 10px" /></a>
-        <a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" style="margin: 10px" /></a>
-        <a href="https://expressjs.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express" height="40" style="margin: 10px" /></a>
+        <a href="https://nodejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40" style="margin: 8px" /></a>
+        <a href="https://expressjs.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express" height="40" style="margin: 8px" /></a>
+        <a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" style="margin: 8px" /></a>
       </div>
     </td>
   </tr>
@@ -45,24 +45,24 @@
     <td valign="top" width="33%">
       <h3 align="center">🗄️ Database</h3>
       <div align="center">
-        <a href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="40" style="margin: 10px" /></a>
+        <a href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="40" style="margin: 8px" /></a>
       </div>
     </td>
     <td valign="top" width="33%">
       <h3 align="center">🚀 Framework & Lib</h3>
       <div align="center">
-        <a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="35" style="margin: 10px" /></a>
-        <a href="https://vuejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue" height="35" style="margin: 10px" /></a>
-        <a href="https://getbootstrap.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="35" style="margin: 10px" /></a>
+        <a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="35" style="margin: 8px" /></a>
+        <a href="https://vuejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue" height="35" style="margin: 8px" /></a>
+        <a href="https://getbootstrap.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="35" style="margin: 8px" /></a>
         <br>
-        <a href="https://tailwindcss.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind" height="30" style="margin: 10px" /></a>
-        <a href="https://chakra-ui.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="ChakraUI" height="30" style="margin: 10px" /></a>
+        <a href="https://tailwindcss.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind" height="30" style="margin: 8px" /></a>
+        <a href="https://chakra-ui.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="ChakraUI" height="30" style="margin: 8px" /></a>
       </div>
     </td>
     <td valign="top" width="33%">
       <h3 align="center">🧪 Test</h3>
       <div align="center">
-        <a href="https://jestjs.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="40" style="margin: 10px" /></a>
+        <a href="https://jestjs.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="40" style="margin: 8px" /></a>
       </div>
     </td>
   </tr>
@@ -71,8 +71,8 @@
     <td colspan="3" valign="top">
       <h3 align="center">☁️ DevOps & Tools</h3>
       <div align="center">
-        <a href="https://git-scm.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" style="margin: 10px" /></a>
-        <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank"><img src="https://learn.microsoft.com/en-us/powershell/media/index/ps_black_128.svg" alt="PowerShell" height="40" style="margin: 10px" /></a>
+        <a href="https://git-scm.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" style="margin: 8px" /></a>
+        <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank"><img src="https://learn.microsoft.com/en-us/powershell/media/index/ps_black_128.svg" alt="PowerShell" height="40" style="margin: 8px" /></a>
       </div>
     </td>
   </tr>
