@@ -93,7 +93,9 @@
 
 ### Github Stats
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=UmbertoCarbone&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=UmbertoCarbone&show_icons=true&count_private=true&bg_color=0,000000,310047&title_color=ff0000&text_color=ffffff&icon_color=ffffff&border_color=000000&hide_border=false" align="center" />
+</div>
 
 ## 📫 Contact Me
 
