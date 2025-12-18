@@ -93,7 +93,7 @@
 
 ### Github Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=UmbertoCarbone&theme=shadow-purple&date_format=M%20j%5B%2C%20Y%5D&card_width=501)](https://git.io/streak-stats)
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=UmbertoCarbone&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
 
 ## 📫 Contact Me
 
