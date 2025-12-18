@@ -13,7 +13,6 @@
 
 ## 🛠️ Skills & Technologies
 
-## 🛠️ My Skill Set
 
 <table>
   <tr>
