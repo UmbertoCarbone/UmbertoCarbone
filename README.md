@@ -35,7 +35,7 @@
 🎮 **Umberto IA** – AI bot for Discord  
 🌐 **Ludos Cafe Bar Website** – dynamic website created for Ludos Cafe Bar using Tailwind CSS  
 🛒 **CloudGames** – group e-commerce project for video games  
-🤖 **Role Selector Bot** – Discord bot developed in Python with a command palette for role selection
+🤖 **Role Selector Bot** – Discord bot developed in Python with a command palette for role selection 
 🛒 **MiSiedoEGusto_TableReserve** – interactive website for booking restaurant tables, designed with a focus on user experience **In Progress**
 
 ---
