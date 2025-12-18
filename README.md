@@ -72,7 +72,7 @@
       <h3 align="center">☁️ DevOps & Tools</h3>
       <div align="center">
         <a href="https://git-scm.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" style="margin: 5px" /></a>
-        <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.svg" alt="PowerShell" height="40" style="margin: 5px" /></a>
+        <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank"><img src="https://learn.microsoft.com/en-us/powershell/media/index/ps_black_128.svg" alt="PowerShell" height="40" style="margin: 5px" /></a>
       </div>
     </td>
   </tr>
