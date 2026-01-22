@@ -27,8 +27,8 @@
     <td valign="top" width="33%">
       <h3 align="center">🎨 Frontend</h3>
       <div align="center">
-        <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TS" height="40" style="margin: 8px" /></a>
-        <a href="https://sass-lang.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="40" style="margin: 8px" /></a>
+        <a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="35" style="margin: 8px" /></a>
+        <!-- <a href="https://sass-lang.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="40" style="margin: 8px" /></a> -->
       </div>
     </td>
     <td valign="top" width="33%">
@@ -49,9 +49,9 @@
       </div>
     </td>
     <td valign="top" width="33%">
-      <h3 align="center">🚀 Framework & Lib</h3>
+      <h3 align="center">📚 Framework & Lib</h3>
       <div align="center">
-        <a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="35" style="margin: 8px" /></a>
+        <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TS" height="40" style="margin: 8px" /></a>
         <a href="https://vuejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue" height="35" style="margin: 8px" /></a>
         <a href="https://getbootstrap.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="35" style="margin: 8px" /></a>
         <br>
