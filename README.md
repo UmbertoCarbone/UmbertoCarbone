@@ -34,6 +34,7 @@
     <td valign="top" width="33%">
       <h3 align="center">⚙️ Backend</h3>
       <div align="center">
+        <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TS" height="40" style="margin: 8px" /></a>
         <a href="https://nodejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40" style="margin: 8px" /></a>
         <a href="https://expressjs.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express" height="40" style="margin: 8px" /></a>
         <a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" style="margin: 8px" /></a>
@@ -51,7 +52,6 @@
     <td valign="top" width="33%">
       <h3 align="center">📚 Framework & Lib</h3>
       <div align="center">
-        <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TS" height="40" style="margin: 8px" /></a>
         <a href="https://vuejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue" height="35" style="margin: 8px" /></a>
         <a href="https://getbootstrap.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="35" style="margin: 8px" /></a>
         <br>
