@@ -47,7 +47,7 @@
       <h3 align="center">🗄️ Database</h3>
       <div align="center">
         <a href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="40" style="margin: 8px" /></a>
-        <a href="https://www.mysql.com/" target="_blank"><img src="https://github.com/user-attachments/assets/ee77a72f-8958-4ff1-a550-9feeb9ba9d60" alt="supabase-logo-icon" height="40" style="margin: 8px"/></a>
+        <a href="https://supabase.com/" target="_blank"><img src="https://github.com/user-attachments/assets/ee77a72f-8958-4ff1-a550-9feeb9ba9d60" alt="supabase-logo-icon" height="30" style="margin: 8px"/></a>
       </div>
     </td>
     <td valign="top" width="33%">
