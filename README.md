@@ -88,7 +88,7 @@
 🌐 **Ludos Cafe Bar Website** – dynamic website created for Ludos Cafe Bar using Tailwind CSS  
 🛒 **CloudGames** – group e-commerce project for video games  
 🤖 **Role Selector Bot** – Discord bot developed in Python with a command palette for role selection  
-🛒 **TableReserve** – interactive table booking website **In Progress**
+💻 **SpeedTestApp** – app Python per monitorare la connessione internet
 
 ---
 
