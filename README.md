@@ -4,8 +4,7 @@
 
 🇮🇹 Based in **Naples, Italy**  
 💡 **Traits:** kind, proactive, calm, and composed  
-🖥️ Passionate about **computers and consoles** since childhood  
-📚 Took a **8-month Web Developer course** to dive into coding  
+🖥️ Passionate about **computers and consoles** since childhood 
 ⚡ I enjoy creating **web apps, bots, and various projects**  
 📝 Always aim for **clean code and high-quality results**  
 🎮 Hobbies: **gaming** , **anime & manga**  
